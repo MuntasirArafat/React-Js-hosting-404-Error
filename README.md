@@ -4,6 +4,8 @@
 
 This repository addresses and provides a solution for the common 404 error issue that occurs when reloading a ReactJS application hosted on shared hosting or any hosting environment. The problem arises due to the default behavior of servers when handling client-side routing.
 
+![GitHub Logo]([https://example.com/image.jpg](https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2018/06/Error-404-on-Mozilla-Firefox-1024x762.webp))
+
 ## Problem Description
 
 When a user reloads a page in a ReactJS application hosted on shared hosting, the server might not recognize the client-side routes, resulting in a 404 error. This issue is particularly common in environments where direct access to specific routes is not properly configured.
