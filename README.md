@@ -4,7 +4,8 @@
 
 This repository addresses and provides a solution for the common 404 error issue that occurs when reloading a ReactJS application hosted on shared hosting or any hosting environment. The problem arises due to the default behavior of servers when handling client-side routing.
 
-![GitHub Logo](https://raw.githubusercontent.com/MuntasirArafat/React-Js-hosting-404-Error/main/Screenshot%202023-12-11%20024352.png)
+
+<img src="https://raw.githubusercontent.com/MuntasirArafat/React-Js-hosting-404-Error/main/Screenshot%202023-12-11%20024352.png" alt="Alt Text" style="width:100%;">
 
 ## Problem Description
 
