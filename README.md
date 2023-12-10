@@ -26,7 +26,7 @@ To resolve the 404 error on page reload, follow these steps:
   RewriteRule . /index.html [L]
 </IfModule>
 ```
-This code ensures that all requests that do not correspond to an existing file or directory will be redirected to the ** index.html ** file. This approach enables proper handling of client-side routes by the ReactJS application.
+This code ensures that all requests that do not correspond to an existing file or directory will be redirected to the  <code>index.html</code> file. This approach enables proper handling of client-side routes by the ReactJS application.
 ## Usage
 Simply copy and paste the provided code into your <code>.htaccess</code> file, and save the changes. Ensure that the <code>.htaccess</code> file is in the root directory of your hosted ReactJS application.
 
