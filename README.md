@@ -2,7 +2,7 @@
 React Js hosting 404 Error 
 
 
-To slove 404 error on page reload in shared hosing or any hosting just create a file name called 
+To slove 404 error on page reload in shared hosing or any hosting just insert this code in .htaccess file.txt
 
 ```
 <IfModule mod_rewrite.c>
